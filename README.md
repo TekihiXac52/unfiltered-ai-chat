@@ -93,3 +93,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: unfiltered-ai-chat, local, uncensored, privacy, chat, llm, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+llm local uncensored privacy chat unfiltered-ai-chat local-ai-chat-uncensored uncensored-ai-chat windows portable prebuilt x64 free download
+related: llm, local, uncensored, privacy, chat
